@@ -1,0 +1,27 @@
+.input-container {
+  display: flex;
+  align-items: center;
+  height: 30px;
+  padding: 7px 12px 7px 12px;
+  border: 1px solid #D0D8E0;
+  box-sizing: border-box;
+  border-radius: 4px;
+  margin: 50px;
+  width: 231px;
+  background: white;
+}
+
+.input-bar {
+  flex: 1;
+  margin-right: 10px;
+  align-self: center;
+  border-color: #ffff0000;
+}
+
+.search-bar-container{
+  margin: 12px 16px 8px 16px;
+}
+
+.search-icon-styles {
+  width: 14px
+}

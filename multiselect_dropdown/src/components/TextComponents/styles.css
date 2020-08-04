@@ -1,0 +1,12 @@
+.dropdown-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.2px;
+    color: #546374;
+}
+
+.dropdown-text-container {
+    height: 16px;
+}
